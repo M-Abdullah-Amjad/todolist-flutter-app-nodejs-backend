@@ -5,7 +5,7 @@ import '../models/user_model.dart';
 import '../models/todo_model.dart';
 
 class ApiService extends GetxService {
-  static const String baseUrl = 'https://todo-nodejs-flutter-app.vercel.app';
+  static const String baseUrl = '';
   static String? authToken;
 
   // Authentication APIs
